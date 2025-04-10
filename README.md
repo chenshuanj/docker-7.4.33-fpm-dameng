@@ -17,3 +17,5 @@ docker cp [dameng-container-id]:/opt/dmdbms/bin dmdbms/bin
 #构建
 docker build -t php:7.4.33-fpm-dm .
 ```
+
+libphp74_dm.so 和 php74_pdo_dm.so 在 https://eco.dameng.com/download/ 下载
